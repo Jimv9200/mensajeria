@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc01993c-09fa-4302-b2d8-efa0b597cbb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mensajeria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/msm/ClienteMensajeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/msm/ServidorMensajeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/publickeycipher/PublicKeyCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Base64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Util.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mXCgGwsVvyEfB8xyVbuWQeqiKQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ClienteMensajeria.executor": "Run",
+    "Application.ServidorMensajeria.executor": "Run",
+    "Application.msm.ServidorMensajeria.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jimv9/IdeaProjects/Mensajeria/src/msm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jimv9\IdeaProjects\Mensajeria\src\msm" />
+      <recent name="C:\Users\jimv9\IdeaProjects\Mensajeria\src\domain" />
+      <recent name="C:\Users\jimv9\IdeaProjects\Mensajeria\src\util" />
+      <recent name="C:\Users\jimv9\IdeaProjects\Mensajeria\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="publickeycipher" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClienteMensajeria">
+    <configuration name="ClienteMensajeria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="msm.ClienteMensajeria" />
+      <module name="Mensajeria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="msm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServidorMensajeria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="domain.ServidorMensajeria" />
+      <module name="Mensajeria" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="msm.ServidorMensajeria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="msm.ServidorMensajeria" />
+      <module name="Mensajeria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="msm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClienteMensajeria" />
+        <item itemvalue="Application.msm.ServidorMensajeria" />
+        <item itemvalue="Application.ServidorMensajeria" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc01993c-09fa-4302-b2d8-efa0b597cbb9" name="Changes" comment="" />
+      <created>1727213645593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727213645593</updated>
+      <workItem from="1727213646644" duration="2296000" />
+      <workItem from="1727215983893" duration="1077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
